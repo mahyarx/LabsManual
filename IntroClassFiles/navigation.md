@@ -1,0 +1,17 @@
+# Intro
+[Intro To SOC]()
+
+  - [Linux CLI](Tools/IntroClass/LinuxCLI/LinuxCLI.md)
+  - [Memory Analysis](Tools/IntroClass/Memory/MemoryAnalysis.md)
+  - [TCPDump](Tools/IntroClass/TCPDump/TCPDump.md)
+  - [Web Log Review](Tools/IntroClass/WebLogReview/WebLogReview.md)
+  - [WindowsCLI](Tools/IntroClass/WindowsCLI/WindowsCLI.md)
+  - [Wireshark](Tools/IntroClass/Wireshark/Wireshark.md)
+  - [RITA](Tools/IntroClass/RITA/RITA.md)
+  - [Nessus](Tools/IntroClass/nessus/Nessus.md)
+  - [DeepBlueCLI](Tools/IntroClass/deepbluecli/DeepBlueCLI.md)
+  - [Domain Log Review](Tools/IntroClass/DomainLogReview/DomainLogReview.md)
+  - [Velociraptor](Tools/IntroClass/Velociraptor/Velociraptor.md)
+  - [Elk In The Cloud](/IntroClassFiles/Tools/IntroClass/md/elk_in_the_cloud.md)
+  - [Elastic Agent](/IntroClassFiles/Tools/IntroClass/md/elastic_agent.md)
+  - [Sysmon in ELK](/IntroClassFiles/Tools/IntroClass/md/sysmon_logs.md)
